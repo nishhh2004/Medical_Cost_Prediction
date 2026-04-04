@@ -21,7 +21,8 @@ Medical_Cost_Prediction/
 ├── scaler.pkl                     
 ├── insurance.csv                  
 ├── Medical_Cost_Prediction.ipynb  
-├── LICENSE                        
+├── LICENSE
+├── requirements.txt                     
 └── README.md                      
 ```
 
