@@ -12,19 +12,18 @@
 
 Medical insurance costs vary significantly based on personal and lifestyle factors. Predicting these costs accurately can help insurance companies price policies fairly and help individuals understand what influences their charges. This project builds a **Machine Learning web application** using **Linear Regression** that predicts annual medical insurance charges based on a patient's personal attributes such as age, BMI, smoking status, and region. The model is deployed as an interactive **Streamlit web app**.
 
----
-
 ## 📁 Folder Structure
-Medical_Cost_Prediction
-├── app.py                          
-├── medical_cost_model.pkl 
-├── scaler.pkl                    
-├── insurance.csv           
-├── Medical_Cost_Prediction.ipynb                  
-├── LICENSE  
-└── README.md       
-
----
+```
+Medical_Cost_Prediction/
+│
+├── app.py                         
+├── medical_cost_model.pkl       
+├── scaler.pkl                     
+├── insurance.csv                  
+├── Medical_Cost_Prediction.ipynb  
+├── LICENSE                        
+└── README.md                      
+```
 
 ## 📊 Dataset
 
