@@ -15,7 +15,7 @@ Medical insurance costs vary significantly based on personal and lifestyle facto
 ---
 
 ## 📁 Folder Structure
-Medical_Cost_Prediction/
+Medical_Cost_Prediction
 ├── app.py                          
 ├── medical_cost_model.pkl 
 ├── scaler.pkl                    
